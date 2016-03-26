@@ -17,7 +17,7 @@ definition(
     name: "LCF Control4 Connect App",
     namespace: "pstuart",
     author: "Patrick Stuart",
-    description: "LCF example Control4 Connect App to spawn hub child device",
+    description: "LCF example Control4 Connect App to spawn hub child device.",
     category: "My Apps",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
