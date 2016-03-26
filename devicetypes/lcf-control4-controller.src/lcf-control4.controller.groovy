@@ -62,7 +62,7 @@ def parse(String description) {
     //log.debug msg
     //log.debug "XML response is $msg.xml"
     //log.debug msg.body
-	// TODO: handle 'button' attribute
+	// TODO: handle 'button' attribute.
     if(msg.xml) {
     	def xml = msg.xml
         log.debug xml.response
